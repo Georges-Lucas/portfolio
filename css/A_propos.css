@@ -1,0 +1,7 @@
+@import url(./main.css);
+
+figcaption{
+    height: 65rem;
+    width: auto;
+    background-color: var(--color-primary-text);
+}

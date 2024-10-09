@@ -5,9 +5,22 @@ nav{
     text-align: right;
 }
 
+nav>h1{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+nav>img{
+    height: 10%;
+}
+
 nav>a{
-    padding-right: 1rem;
-    border-right: solid .4rem blue;
+    padding-left: 1rem;
+    margin-right: .5rem;
+    border-left: solid .4rem;
+    border-color: var(--color-secondary-bg);
     display: inline-block;
 }
 
