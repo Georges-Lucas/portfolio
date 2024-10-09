@@ -1,7 +1,20 @@
 @import url(./main.css);
 
-figcaption{
-    height: 65rem;
+main{
     width: auto;
+    height: auto;
     background-color: var(--color-primary-text);
+}
+
+figure{
+    margin-bottom: 5rem;
+}
+figcaption{
+   
+    height: 56rem;
+    width: 50rem;
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--color-primary-bg);
 }
