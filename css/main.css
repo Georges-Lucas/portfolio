@@ -1,0 +1,19 @@
+@import url(./reset.css);
+
+/* header */
+nav{
+    text-align: right;
+}
+
+nav>a{
+    padding-right: 1rem;
+    border-right: solid .4rem blue;
+    display: inline-block;
+}
+
+/*main*/
+
+/*footer*/
+footer{
+    text-align: center;
+}
