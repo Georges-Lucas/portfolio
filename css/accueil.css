@@ -1,0 +1,8 @@
+@import url(main.css);
+
+figure{
+    width: 10rem;
+    height: 10rem;
+    background-image: url(../asset/laptop-5673901_1920.jpg);
+}
+
