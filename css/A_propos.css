@@ -1,11 +1,16 @@
 @import url(./main.css);
 
+main{
+    background-color: var(--color-primary-text);
+}
 h1{
     font-weight:normal;
 }
 
 figcaption{
-    height: 63rem;
-    width: auto;
-    background-color: var(--color-primary-text);
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 70rem;
+    background-color: var(--color-primary-bg);
 }
