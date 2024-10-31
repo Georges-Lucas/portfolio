@@ -1,4 +1,4 @@
-# Bienvenue sur mon portfolio
-> Bienvenue sur mon portfolio personnel 
+# Projet portfolio
+> mon portfolio personnel 
 
 [GitHub Pages](https://georges-lucas.github.io/portfolio/)
