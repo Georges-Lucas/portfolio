@@ -1,4 +1,7 @@
 # Projet portfolio
-> mon portfolio personnel 
+
+## Ma charte graphique
+
+
 
 [GitHub Pages](https://georges-lucas.github.io/portfolio/)
