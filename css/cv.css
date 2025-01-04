@@ -10,8 +10,9 @@ figure{
     margin-bottom: 5rem;
 }
 figcaption{
-   
-    height: 56rem;
+    display: grid;
+    grid-template-columns: 25% 1fr;
+    height: auto;
     width: 50rem;
     margin-top: 2rem;
     margin-left: auto;
