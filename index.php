@@ -16,17 +16,16 @@
     </header>
 
     <main>
-        <?php 
-            fetch("https://api.github.com/users/SafiDial");
-
-        //    "https://api.github.com/users/SafiDial";
-           
-        ?>
+        <figure>
+            <figcaption>
+                <span></span>
+            </figcaption>
+        </figure>
     </main>
 
     <footer>
         <p>Georges-Lucas GRONDIN© - 2024</p>
     </footer>
-    <script src="./js/script.js"></script>
+    <script type="module" src="./js/script.js"></script>
 </body>
 </html>
