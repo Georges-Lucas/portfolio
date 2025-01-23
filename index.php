@@ -8,7 +8,6 @@
 </head>
 <body>
     <header>
-        <img src="" alt="">
         <h1>Acceuil</h1>
         <nav>
             <a href="./pages/cv.html">CV</a>
@@ -17,11 +16,17 @@
     </header>
 
     <main>
-        <img src="" alt="">
+        <?php 
+            fetch("https://api.github.com/users/SafiDial");
+
+        //    "https://api.github.com/users/SafiDial";
+           
+        ?>
     </main>
 
     <footer>
         <p>Georges-Lucas GRONDIN© - 2024</p>
     </footer>
+    <script src="./js/script.js"></script>
 </body>
 </html>
