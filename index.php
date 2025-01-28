@@ -8,10 +8,8 @@
 </head>
 <body>
     <header>
-        <!-- <img src="" alt=""> -->
         <h1>Acceuil</h1>
         <nav>
-            
             <a href="./pages/cv.html">CV</a>
             <a href="./pages/A_propos.html">A-propos</a>
         </nav>
@@ -20,13 +18,14 @@
     <main>
         <figure>
             <figcaption>
-                <!-- <img src="" alt=""> -->
+                <span></span>
             </figcaption>
         </figure>
-        
     </main>
+
     <footer>
         <p>Georges-Lucas GRONDIN© - 2024</p>
     </footer>
+    <script type="module" src="./js/script.js"></script>
 </body>
 </html>

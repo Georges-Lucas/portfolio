@@ -1,3 +1,21 @@
 @import url(./main.css);
 
+<<<<<<< HEAD
+=======
+figure{
+    width: 100rem;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--color-primary-text);
+}
+>>>>>>> dev
 
+figcaption span{
+    color: black;
+}
+
+span img{
+    width: 10rem;
+    border-radius: 10rem;
+}
