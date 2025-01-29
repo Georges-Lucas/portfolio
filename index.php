@@ -19,8 +19,8 @@
         <figure>
             <figcaption>
                 <div>
-                    <h1>Bienvenue sur le porfolie de <Strong>Georges-Lucas GRONDIN</Strong></h1>
-                    <span></span>
+                    <h1>Bienvenue sur le porfolie <br>de <Strong>Georges-Lucas GRONDIN</Strong></h1>
+                    <span class="git"></span>
                 </div>
                 
             </figcaption>

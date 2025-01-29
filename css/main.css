@@ -10,9 +10,17 @@ header{
     background-color: var(--color-primary-bg);
 }
 
-nav{
+header h1{
+    display: flex;
+    float: left;
+    padding-left: 1rem;
+}
+
+header nav{
+    display: flex;
+    float: right;
     text-align: right;
-    display: inline-block;
+    padding: 1rem;
 }
 
 header h1{
