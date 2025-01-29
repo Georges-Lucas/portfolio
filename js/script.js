@@ -10,9 +10,9 @@ fetch(url)
         <p>
             ${data.login}
         </p>
-        <p>
+       <!-- <p>
             ${data.ville}
-        </p>
+        </p>-->
         <p>
             ${data.url}
         </p>`;
