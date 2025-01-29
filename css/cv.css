@@ -20,7 +20,33 @@ figcaption{
     background-color: var(--color-primary-bg);
 }
 
-section{
-    margin-left: 1rem;
-    margin-right: 1rem;
+
+/*partie de gauche */
+.left{
+    border-right: .3rem solid var(--color-secondary-bg);
+}
+.left h2{
+    text-align: center;
+    font-size: 1.5rem;
+    border-bottom: .3rem solid;
+    border-color: var(--color-secondary-bg);
+}
+
+.prenom h1{
+    text-align: center;
+    background-color: var(--color-secondary-bg);
+}
+
+.apropos p{
+    padding: 1rem;
+}
+
+.apropos h2,.contact h1, .contact p{
+    margin: 0 1rem 0 1rem;
+}
+
+
+/*partie de droite*/
+.rigth{
+    margin: 0 1rem 0 2rem;
 }
