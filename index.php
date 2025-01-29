@@ -18,7 +18,11 @@
     <main>
         <figure>
             <figcaption>
-                <span></span>
+                <div>
+                    <h1>Bienvenue sur le porfolie de <Strong>Georges-Lucas GRONDIN</Strong></h1>
+                    <span></span>
+                </div>
+                
             </figcaption>
         </figure>
     </main>

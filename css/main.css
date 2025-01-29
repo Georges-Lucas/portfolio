@@ -1,6 +1,15 @@
 @import url(./reset.css);
 
 /* header */
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-width: 100%;
+    background-color: var(--color-primary-bg);
+}
+
 nav{
     text-align: right;
     display: inline-block;
@@ -27,5 +36,10 @@ nav>a{
 
 /*footer*/
 footer{
+    position: fixed;
+    bottom: 0;
     text-align: center;
+    width: 100%;
+    max-width: 100%;
+    background-color: var(--color-primary-bg);
 }
