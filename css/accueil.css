@@ -23,7 +23,7 @@ figcaption div span{
     max-height: auto;
     margin-left: auto;
     margin-right: auto;
-    color: black;
+    color: var(--color-primary-text);
 }
 
 span img{
