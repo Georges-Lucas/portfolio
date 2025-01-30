@@ -37,12 +37,17 @@ figcaption{
     background-color: var(--color-secondary-bg);
 }
 
+.apropos h2{
+    padding-top: 1rem;
+}
+
 .apropos p{
     padding: 1rem;
 }
 
 .apropos h2,.contact h2, .contact p,.langue h2, .langue ul,.interet h2, .interet ul{
     margin: 0 1rem 0 1rem;
+    list-style-type: none;
 }
 
 
@@ -53,10 +58,25 @@ figcaption{
     background-color: var(--color-secondary-bg);
     padding-left: 1rem;
 }
+.rigth ul li p{
+    padding-left: 1rem;
+    font-size: 1.5rem;
+}
+.rigth ol li p{
+    padding-left: 1rem;
+    font-size: 1.5rem;
+}
+
+.rigth ol li ul li{
+    list-style-type: circle ;
+    padding-left: 1rem;
+    font-size: 1.3rem;
+}
 
 .rigth ul,.rigth ol{
     list-style-type: none;
     padding-left: 2rem;
+    padding-right: 1rem;
 }
 
 .rigth li{
