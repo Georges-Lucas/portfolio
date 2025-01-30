@@ -47,6 +47,27 @@ figcaption{
 
 
 /*partie de droite*/
-.rigth{
-    margin: 0 1rem 0 2rem;
+
+
+.rigth > h1{
+    background-color: var(--color-secondary-bg);
+    padding-left: 1rem;
+}
+
+.rigth ul,.rigth ol{
+    list-style-type: none;
+    padding-left: 2rem;
+}
+
+.rigth li{
+    padding-bottom: .5rem;
+}
+
+.competence{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.softskill li, .skill li{
+    padding: 0;
 }
