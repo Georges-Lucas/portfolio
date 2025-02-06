@@ -32,7 +32,11 @@ header img {
     display: inline;
 }
 
-nav>a{
+nav li {
+    display: inline;
+}
+
+nav a{
     padding-left: 1rem;
     margin-right: .5rem;
     border-left: solid .4rem;
