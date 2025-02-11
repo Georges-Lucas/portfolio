@@ -32,16 +32,18 @@ header img {
     display: inline;
 }
 
-nav li {
-    display: inline;
+nav ul {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
 }
 
-nav a{
-    padding-left: 1rem;
-    margin-right: .5rem;
-    border-left: solid .4rem;
-    border-color: var(--color-secondary-bg);
-    display: inline-block;
+nav li{
+    width: 8rem;
+    border-radius: 1rem;
+    background-color: var(--color-secondary-bg);
+    text-align: center;
 }
 
 /*main*/
