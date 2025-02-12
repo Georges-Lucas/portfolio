@@ -3,7 +3,7 @@
 figcaption div{
     background-image: url(../asset/laptop-5673901_1920.jpg);
     height: calc(100vh - 5rem);
-    margin-top: 5rem;
+    padding-top: 5rem;
     background-size: cover; 
     background-position: center 20%; 
     background-repeat: no-repeat; 

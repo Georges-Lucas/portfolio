@@ -8,6 +8,8 @@ header{
     width: 100%;
     max-width: 100%;
     background-color: var(--color-primary-bg);
+    justify-content: space-between;
+    display: flex;
 }
 
 header h1{
@@ -41,7 +43,8 @@ nav ul {
 
 nav li{
     width: 8rem;
-    border-radius: 1rem;
+    border-radius: .4rem;
+    padding: .5rem;
     background-color: var(--color-secondary-bg);
     text-align: center;
 }
@@ -57,5 +60,4 @@ footer{
     text-align: center;
     width: 100%;
     max-width: 100%;
-    background-color: var(--color-primary-bg);
 }
