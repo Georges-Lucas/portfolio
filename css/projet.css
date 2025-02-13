@@ -1,0 +1,58 @@
+@import url(./main.css);
+
+body{
+    background-color: var(--color-primary-text);
+}
+
+figure{
+    background-color: var(--color-primary-bg);
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150rem;
+}
+
+figcaption h1{
+    padding: 1rem;
+    height: auto;
+}
+
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+section img{
+    width: 72rem;
+    display: flex;
+    float: left;
+    padding: 0 1rem 1rem 1rem
+}
+
+
+section a{
+    width: auto;
+    border-radius: .4rem;
+    padding: 1rem 2rem;
+    background-color: var(--color-secondary-bg);
+    text-align: center;
+}
+
+section p{
+    padding: 1rem;
+}
+
+section ul{
+    margin-left: 1rem;
+}
+
+section li{
+    margin-left: 1rem;
+    list-style:circle;
+}
+
+
+footer{
+    background-color: var(--color-primary-bg);
+}
