@@ -91,3 +91,7 @@ figcaption{
 .softskill li, .skill li{
     padding: 0;
 }
+
+footer{
+    background-color: var(--color-primary-bg);
+}
