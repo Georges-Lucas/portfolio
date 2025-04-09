@@ -13,9 +13,9 @@ fetch(url)
        <!-- <p>
             ${data.ville}
         </p>-->
-        <p>
-            ${data.url}
-        </p>`;
+        <a href="${data.html_url}" target="_blank" class="github-link">
+            <img src="asset/github.png" alt="github logo" class="github-logo"/>    
+        </a>`;
     gitapi.innerHTML = userInfo;
 })
 
