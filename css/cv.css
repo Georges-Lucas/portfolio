@@ -14,12 +14,23 @@ figcaption{
     grid-template-columns: 30% 1fr;
     height: auto;
     width: 90rem;
-    margin-top: 7rem;
+    margin-top: 2rem;
     margin-left: auto;
     margin-right: auto;
     background-color: var(--color-primary-bg);
 }
 
+.download-btn{
+    display: block;
+    width: max-content;
+    text-align: center;
+    margin: 7rem auto 0rem auto;
+    background-color: var(--color-secondary-bg);
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
 
 /*partie de gauche */
 .left{
@@ -92,3 +103,4 @@ figcaption{
 footer{
     background-color: var(--color-primary-bg);
 }
+
