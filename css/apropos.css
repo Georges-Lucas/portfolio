@@ -15,12 +15,24 @@ main h1{
 .exa{
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 1rem;
+    padding: 1rem;
     width: 100rem;
     background-color: var(--color-primary-bg);
     h2{
         text-align: center;
+        font-size: 3rem;
+        color: var(--color-secondary-bg);
+    }
+    h3{
+        padding-left: 1rem;
+        font-size: 2rem;
+    }
+    ul{
+        padding-left: 2rem;
     }
     p{
+        padding-left: 2rem;
         a{
             display: inline;
         }

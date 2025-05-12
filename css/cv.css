@@ -13,7 +13,7 @@ figcaption{
     display: grid;
     grid-template-columns: 30% 1fr;
     height: auto;
-    width: 70rem;
+    width: 90rem;
     margin-top: 7rem;
     margin-left: auto;
     margin-right: auto;
@@ -34,22 +34,19 @@ figcaption{
 
 .prenom h1{
     text-align: center;
-    background-color: var(--color-secondary-bg);
+    margin-bottom: 1rem;
 }
 
-.apropos h2{
-    padding-top: 1rem;
-}
 
-.apropos p{
-    padding: 1rem;
-}
-
-.apropos h2,.contact h2, .contact p,.langue h2, .langue ul,.interet h2, .interet ul{
+.contact h2, .contact p,.langue h2, .langue ul,.interet h2, .interet ul{
     margin: 0 1rem 0 1rem;
     list-style-type: none;
 }
 
+.interet ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 
 /*partie de droite*/
 
