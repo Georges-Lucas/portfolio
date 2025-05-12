@@ -93,11 +93,11 @@ span img{
 }
 
 .socials {
-    display: flex; /* Active Flexbox */
-    justify-content: center; /* Centre les éléments horizontalement */
-    align-items: center; /* Centre les éléments verticalement */
-    gap: 1rem; /* Ajoute un espace entre les logos */
-    margin-top: 1rem; /* Ajoute un espace au-dessus */
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    gap: 1rem; 
+    margin-top: 1rem; 
 }
 
 @media screen and (max-width: 768px) {
@@ -109,7 +109,7 @@ span img{
         font-size: 2rem;
     }
     figcaption{
-        margin-top: 10rem;
+        margin-top: 1rem;
         display: grid;
         grid-template-columns: 1fr;
     }
