@@ -17,7 +17,7 @@ fetch(url)
             <a href="${data.html_url}" target="_blank" class="github-link">
                 <img src="asset/github.png" alt="github logo" class="github-logo"/>    
             </a>
-            <a href="www.linkedin.com/in/georges-lucas-grondin-03281a271" target="_blank">
+            <a href="https://www.linkedin.com/in/georges-lucas-grondin" target="_blank">
                 <img src="asset/linkedin.png" alt="blog logo" class="linkedin-logo"/>
             </a>
         </div>

@@ -20,6 +20,7 @@ main{
 }
 
 figcaption{
+    margin-top: 20rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
